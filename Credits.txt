@@ -1,0 +1,5 @@
+Name: Kyle Wheatley
+School: Southern New Hampshire University
+Class: IT-312 Software Development with C++.Net
+Professor: Dr. Alex Thames
+Date: 06/25/2023
